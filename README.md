@@ -10,8 +10,6 @@
 | **🌐 Global Multi-Lang Release**<br>*(海外多语言版 v1.0.3)* | Global Users, Developers, International Teams<br>*(欧美/海外用户、留学生、多语言办公)* | • 9-Lang Offline OCR (EN, ZH, JA, KO, DE, ES, FR, RU)<br>• Smart Translation & Same-Lang Passthrough<br>• Portable Green Edition + Windows Installer<br>*(9国离线模型 + 跨语种翻译 + 便携版/安装版)* | [👉 Download v1.0.3 (点击下载)](https://github.com/mengtiantang1234/PinMarkX/releases/latest) |
 | **🇨🇳 Chinese Edition**<br>*(国内中文正式版 v1.0.0-cn)* | Domestic Chinese Windows Users<br>*(国内 Windows 用户、个人/企业办公)* | • Full Native Chinese Interface & Tools<br>• Portable Green Edition + Windows Installer<br>*(原生中文界面与极速快捷工具)* | [👉 Download CN (下载中文版)](https://github.com/mengtiantang1234/PinMarkX/releases/tag/v1.0.0-cn) |
 | **🛒 Official Store**<br>*(正版终身授权)* | Dual-PC Lifetime License<br>*(一码双机终身授权)* | • Lifetime Free Updates & Priority Support<br>*(终身免费更新 + 优先客服支持)* | [👉 Buy on Payhip (前往商店)](https://payhip.com/b/gBN7L) |
-| **🇨🇳 国内中文正式版 (Chinese Release)** | 国内 Windows 用户、个人/企业办公 | • 完整中文原生的界面与工具<br>• 快捷桌面生成与一键清理<br>• 绿色便携版 + 标准安装包 | [👉 点击下载中文版 (v1.0.0-cn)](https://github.com/mengtiantang1234/PinMarkX/releases/tag/v1.0.0-cn) |
-| **🛒 官方正版终身授权** | 一码双机 (Dual-PC Lifetime) | • 终身免费升级与优先客服支持 | [👉 前往 Payhip 商店购买](https://payhip.com/b/gBN7L) |
 
 ---
 

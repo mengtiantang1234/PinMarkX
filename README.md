@@ -5,12 +5,11 @@
 
 ### 📦 Download Center / 版本下载中心
 
-| Version / 版本名称 | Target Audience / 适用人群 | Included Components / 包含组件 | Direct Download / 直接下载 |
+| Version / 版本名称 | Target Audience / 适用人群 | Included Components / 包含组件 | Direct Download / 直接下载最新版 |
 | :--- | :--- | :--- | :--- |
-| **🌐 Global Multi-Lang Release**<br>*(海外多语言版·最新版)* | Global Users, Developers, International Teams<br>*(欧美/海外用户、留学生、多语言办公)* | • 9-Lang Offline OCR (EN, ZH, JA, KO, DE, ES, FR, RU)<br>• Smart Translation & Same-Lang Passthrough<br>• Portable Green Edition + Windows Installer<br>*(9国离线模型 + 跨语种翻译 + 便携版/安装版)* | [⚡ Direct Download (直接下载海外最新版)](https://github.com/mengtiantang1234/PinMarkX/releases/download/latest-glb/PinMarkX_v1.0.7_GLB_Release.zip)<br><sub>[🔗 查看发布说明 (Release Page)](https://github.com/mengtiantang1234/PinMarkX/releases/tag/latest-glb)</sub> |
-| **🇨🇳 Chinese Edition**<br>*(国内中文正式版·最新版)* | Domestic Chinese Windows Users<br>*(国内 Windows 用户、个人/企业办公)* | • Full Native Chinese Interface & Tools<br>• Portable Green Edition + Windows Installer<br>*(原生中文界面与极速快捷工具)* | [⚡ 直接下载国内中文版 (v1.0.8 最新版)](https://github.com/mengtiantang1234/PinMarkX/releases/download/latest-cn/PinMarkX_v1.0.8_CN_Release.zip)<br><sub>[🔗 查看发布说明 (Release Page)](https://github.com/mengtiantang1234/PinMarkX/releases/tag/latest-cn)</sub> |
+| **🌐 Global Multi-Lang Release**<br>*(海外多语言版)* | Global Users, Developers, International Teams<br>*(欧美/海外用户、留学生、多语言办公)* | • 9-Lang Offline OCR (EN, ZH, JA, KO, DE, ES, FR, RU)<br>• Smart Translation & Same-Lang Passthrough<br>• Portable Green Edition + Windows Installer<br>*(9国离线模型 + 跨语种翻译 + 便携版/安装版)* | [⚡ Direct Download (自动下载最新海外版)](https://github.com/mengtiantang1234/PinMarkX/releases/download/latest-glb/PinMarkX_Global_Setup.zip)<br><sub>[🔗 查看更新日志 (Release Page)](https://github.com/mengtiantang1234/PinMarkX/releases/tag/latest-glb)</sub> |
+| **🇨🇳 Chinese Edition**<br>*(国内中文正式版)* | Domestic Chinese Windows Users<br>*(国内 Windows 用户、个人/企业办公)* | • Full Native Chinese Interface & Tools<br>• Portable Green Edition + Windows Installer<br>*(原生中文界面与极速快捷工具)* | [⚡ 直接下载最新中文版 (.zip)](https://github.com/mengtiantang1234/PinMarkX/releases/download/latest-cn/PinMarkX_CN_Setup.zip)<br><sub>[🔗 查看更新日志 (Release Page)](https://github.com/mengtiantang1234/PinMarkX/releases/tag/latest-cn)</sub> |
 | **🛒 Official Store**<br>*(正版终身授权)* | Dual-PC Lifetime License<br>*(一码双机终身授权)* | • Lifetime Free Updates & Priority Support<br>*(终身免费更新 + 优先客服支持)* | [👉 Buy on Payhip (前往商店)](https://payhip.com/b/gBN7L) |
-
 ---
 
 ### ✨ 核心功能亮点一览
